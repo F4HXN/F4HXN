@@ -9,7 +9,7 @@ def create_window():
     window.geometry("800x600")
 
     # Crée un label (étiquette) pour afficher le message
-    greeting = tk.Label(window, text="Bonjour Jeremie", font=("Arial", 24))
+    greeting = tk.Label(window, text="Bonjour à tous", font=("Arial", 24))
     # Positionne le label dans la fenêtre
     greeting.pack(expand=True)
 
