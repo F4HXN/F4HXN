@@ -5,7 +5,7 @@
 ---
 <a name="fr"></a>
 ## 🇫🇷 Français
-- 👀 Passionné de radio amateur
+- 👀 Passionné de radio 
 - 🌐 Mon site : https://www.f4hxn.fr
 - 📡 Ressources : Station radio, galerie photos, service QSL direct, carnet de trafic
 - 🛰️ Outils : Réception ADS-B, fréquences relais, générateur APRS
