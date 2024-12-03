@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @F4HXN
-- 👀 I’m interested in Ham Radio
+# 👋 Hi, I'm @F4HXN
 
+🌍 [Français](#fr) | [English](#en) | [Italiano](#it) | [Español](#es)
 
-<!---
-F4HXN/F4HXN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<a name="fr"></a>
+## 🇫🇷 Français
+- 👀 Passionné de radio amateur
+- 🌐 Mon site : https://www.f4hxn.fr
+- 📡 Ressources : Station radio, galerie photos, service QSL direct, carnet de trafic
+- 🛰️ Outils : Réception ADS-B, fréquences relais, générateur APRS
 
-<b>Visit my website :</b> https://www.f4hxn.fr
+---
+<a name="en"></a>
+## 🇬🇧 English
+- 👀 Interested in Ham Radio
+- 🌐 Website: https://www.f4hxn.fr
+- 📡 Resources: Radio station, photo gallery, direct QSL service, traffic logbook
+- 🛰️ Tools: ADS-B reception, relay frequencies, APRS generator
 
-<i>The website F4HXN.fr is dedicated to amateur radio (Ham Radio) and includes various resources and information for radio amateurs. It features sections on the operator's radio station, a photo gallery, a direct QSL (confirmation of radio contact) service, a traffic logbook, practical information about ADS-B reception, lists of frequencies for relay stations, and more. It also provides links to useful tools, clubs, and associations, as well as a password generator for APRS (Automatic Packet Reporting System).</i>
+---
+<a name="it"></a>
+## 🇮🇹 Italiano
+- 👀 Appassionato di radioamatore
+- 🌐 Sito web: https://www.f4hxn.fr
+- 📡 Risorse: Stazione radio, galleria foto, servizio QSL diretto, registro traffico
+- 🛰️ Strumenti: Ricezione ADS-B, frequenze relè, generatore APRS
+
+---
+<a name="es"></a>
+## 🇪🇸 Español
+- 👀 Aficionado a la radioafición
+- 🌐 Sitio web: https://www.f4hxn.fr
+- 📡 Recursos: Estación de radio, galería de fotos, servicio QSL directo, libro de tráfico
+- 🛰️ Herramientas: Recepción ADS-B, frecuencias de relé, generador APRS
